@@ -1,0 +1,9 @@
+.skill-container {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  width: 30%;
+}
+.skill-img {
+  width: 40px;
+}

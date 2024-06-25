@@ -1,0 +1,102 @@
+.job-item-details-main-container {
+  background-color: #000000;
+  padding: 40px;
+  min-height: 100vh;
+}
+.job-item-details-container {
+  background-color: #272727;
+  color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+}
+.job-item-details-first-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.job-item-details-second-container {
+  display: flex;
+  justify-content: space-between;
+  color: #ffffff;
+}
+.job-item-details-rating-container {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.job-item-details-second-sub1-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.job-item-details-location {
+  margin-right: 10px;
+}
+.job-item-details-work {
+  margin-left: 20px;
+  margin-right: 10px;
+}
+.company-log-url {
+  width: 50px;
+}
+.job-title {
+  font-size: 1.2rem;
+  margin: 0;
+  margin-bottom: 5px;
+}
+.start-icon {
+  color: #fbbf24;
+}
+.job-rating {
+  margin: 0;
+}
+.job-description-heading {
+  font-size: 1.2rem;
+}
+.job-description {
+  font-size: 1rem;
+}
+.description-heading-container {
+  display: flex;
+  justify-content: space-between;
+}
+.company-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+.link {
+  display: flex;
+  text-decoration: none;
+  color: #6366f1;
+  gap: 5px;
+}
+.skills-heading {
+  font-size: 1.2rem;
+}
+.skills-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.life-at-comapy-heading {
+  font-size: 1.2rem;
+}
+.life-at-company-container {
+  display: flex;
+  justify-content: space-between;
+}
+.life-at-comapy-description {
+  width: 60%;
+}
+.similar-jobs-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  list-style-type: none;
+  padding-left: 0;
+}
+.similar-jobs-list .link {
+  width: 30%;
+}

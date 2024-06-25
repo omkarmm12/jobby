@@ -1,0 +1,14 @@
+.not-found-container {
+  background-color: #000000;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-found-content-container {
+  display: flex;
+  flex-direction: column;
+  color: #ffffff;
+  text-align: center;
+}

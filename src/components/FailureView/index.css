@@ -1,0 +1,25 @@
+.failed-view-container {
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 10px;
+}
+.failed-view-img {
+  width: 400px;
+}
+.failure-heading {
+  margin: 0;
+}
+.retry-btn {
+  background-color: #4f46e5;
+  padding: 10px 15px;
+  border: 0;
+  border-radius: 5px;
+  color: #ffffff;
+}
+.loader-container {
+  display: flex;
+  justify-content: center;
+}

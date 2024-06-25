@@ -1,0 +1,23 @@
+.jobsearch-container {
+  border: 1px solid #ffffff;
+  width: 50%;
+  display: flex;
+}
+.job-search-input {
+  padding: 5px;
+  border: 0;
+  width: 100%;
+  background-color: transparent;
+  outline: 0;
+  color: #ffffff;
+}
+.search-btn {
+  border: 0;
+  background-color: #272727;
+  padding: 5px 15px;
+  cursor: pointer;
+}
+.search-icon {
+  border: 0;
+  color: #ffffff;
+}

@@ -1,0 +1,13 @@
+.jobs-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 20px;
+  background-color: #000000;
+}
+.jobs-first-container {
+  width: 30%;
+}
+.jobs-second-container {
+  width: 60%;
+}
