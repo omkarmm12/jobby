@@ -139,7 +139,6 @@ class JobItemDetails extends Component {
   renderJobItemDetails = () => {
     const {jobDetails, skills, lifeAtCompany} = this.state
     const {
-      id,
       title,
       location,
       rating,
