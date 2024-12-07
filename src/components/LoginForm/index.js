@@ -85,7 +85,17 @@ class LoginForm extends Component {
 
   render() {
     return (
-      <div className="login-form-container">{this.renderLoginFormCard()}</div>
+      <div className="login-form-container">
+        <div className="credentials-container">
+          <p>
+            <b>Username</b> : rahul
+          </p>
+          <p>
+            <b>password</b> : rahul@2021
+          </p>
+        </div>
+        {this.renderLoginFormCard()}
+      </div>
     )
   }
 }

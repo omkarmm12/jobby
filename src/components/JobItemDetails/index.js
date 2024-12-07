@@ -28,6 +28,7 @@ class JobItemDetails extends Component {
 
   componentDidMount() {
     this.getJobDetails()
+    console.log(' jobdetails component didmount')
   }
 
   getJobDetails = async () => {
